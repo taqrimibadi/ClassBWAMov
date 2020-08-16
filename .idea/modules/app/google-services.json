@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83595089760",
+    "firebase_url": "https://bwataqrim.firebaseio.com",
+    "project_id": "bwataqrim",
+    "storage_bucket": "bwataqrim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83595089760:android:8b91734929546327d6b005",
+        "android_client_info": {
+          "package_name": "com.taqrim.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83595089760-tffsulo6fd9cduh9doj4pf6oeqtojh6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taqrim.bwamov",
+            "certificate_hash": "692c7d9ea8da757530f43a8f58fb14a5212756ac"
+          }
+        },
+        {
+          "client_id": "83595089760-iu2ak94e12higar0q03d0k0g66v5hjps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5ZofDi6vMj9xRX7-1IUsZVuPjWslzAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83595089760-iu2ak94e12higar0q03d0k0g66v5hjps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
